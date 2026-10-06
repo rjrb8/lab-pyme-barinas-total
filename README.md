@@ -10,9 +10,19 @@
 
 Este repositorio contiene un **laboratorio simulado de ciberseguridad** para una organización ficticia del sector comercial (PYME distribuidora) ubicada en el estado Barinas, Venezuela. El propósito es aplicar de forma práctica las seis funciones del **NIST CSF 2.0** (Gobernar, Identificar, Proteger, Detectar, Responder y Recuperar) sobre un entorno realista con historial de incidentes documentado, bajo el marco legal venezolano vigente.
 
+---
+<img width="2844" height="1130" alt="NotebookLM Mind Map" src="https://github.com/user-attachments/assets/65136e1e-b53a-4720-9ae6-96bf8d096586" />
+
+---
+
+
 > ⚠️ **Aviso:** Todos los datos, nombres, RIF, transacciones y sistemas descritos en este repositorio son **completamente ficticios**. Ningún cliente, empleado ni tercero real está involucrado. El laboratorio se realiza exclusivamente con fines educativos.
 
 ---
+<img width="1536" height="2752" alt="Escalada_de_brechas_de_seguridad" src="https://github.com/user-attachments/assets/5b431f03-8dca-4741-a70b-8ec0373fe36e" />
+
+---
+
 
 ## 2. Historial de incidentes — Contexto del laboratorio
 
@@ -54,6 +64,10 @@ Este laboratorio nace de una **escalada de incidentes reales** en la organizaci�
 | **Horario** | Lunes a viernes 7:30 a.m. – 6:00 p.m. · Sábados 8:00 a.m. – 1:00 p.m. |
 
 ---
+<img width="1536" height="2752" alt="Organigrama_de_Distribuidora_Barinas_Total" src="https://github.com/user-attachments/assets/04f4d5c9-1e61-4e98-ae52-b3ebfbd1298f" />
+
+---
+
 
 ### 3.2 Misión
 
@@ -123,6 +137,12 @@ Este laboratorio nace de una **escalada de incidentes reales** en la organizaci�
 
 > ⚠️ **Nota crítica:** La empresa cuenta con **un solo técnico de TI** que atiende todas las necesidades tecnológicas de forma reactiva. No existe un proceso formal de gestión de cambios, ni procedimientos documentados de seguridad.
 
+---
+<img width="1536" height="2752" alt="Escalada_de_brechas_de_seguridad" src="https://github.com/user-attachments/assets/9e1a41de-ec38-467b-b35a-ee306819772a" />
+
+---
+
+
 **Stack tecnológico actual:**
 
 | Componente | Detalle |
@@ -151,6 +171,15 @@ Este laboratorio nace de una **escalada de incidentes reales** en la organizaci�
 | **Código Penal — Art. 405 y ss.** | Revelación de secretos comerciales y datos de terceros |
 
 ---
+<img width="2752" height="1536" alt="Hoja_de_ruta_de_ciberseguridad" src="https://github.com/user-attachments/assets/c963aa54-93aa-46d7-9beb-12a364b9073e" />
+
+---
+
+<img width="1536" height="2752" alt="Marco_legal_venezolano_de_ciberseguridad" src="https://github.com/user-attachments/assets/c1276334-a432-4791-96aa-4a9556523fba" />
+
+
+---
+
 
 ## 6. Estructura del laboratorio
 
