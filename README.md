@@ -19,10 +19,6 @@ Este repositorio contiene un **laboratorio simulado de ciberseguridad** para una
 > ⚠️ **Aviso:** Todos los datos, nombres, RIF, transacciones y sistemas descritos en este repositorio son **completamente ficticios**. Ningún cliente, empleado ni tercero real está involucrado. El laboratorio se realiza exclusivamente con fines educativos.
 
 ---
-<img width="1536" height="2752" alt="Escalada_de_brechas_de_seguridad" src="https://github.com/user-attachments/assets/5b431f03-8dca-4741-a70b-8ec0373fe36e" />
-
----
-
 
 ## 2. Historial de incidentes — Contexto del laboratorio
 
@@ -136,6 +132,9 @@ Este laboratorio nace de una **escalada de incidentes reales** en la organizaci�
 | Coordinador de TI | Téc. Rafael Ojeda | Infraestructura, soporte técnico, seguridad básica |
 
 > ⚠️ **Nota crítica:** La empresa cuenta con **un solo técnico de TI** que atiende todas las necesidades tecnológicas de forma reactiva. No existe un proceso formal de gestión de cambios, ni procedimientos documentados de seguridad.
+
+---
+<img width="1536" height="2752" alt="Diagnóstico_de_ciberseguridad_en_PYME" src="https://github.com/user-attachments/assets/3887cd57-d757-464d-8fec-a42f13ecdf05" />
 
 ---
 <img width="1536" height="2752" alt="Escalada_de_brechas_de_seguridad" src="https://github.com/user-attachments/assets/9e1a41de-ec38-467b-b35a-ee306819772a" />
